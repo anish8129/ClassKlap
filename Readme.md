@@ -69,9 +69,14 @@ It will exit the program.
 
 #### Along with this some negative scenarios are also covered in this program.
 - Car with duplicate registration number cannot be parked.
-- Car should belong from India to be parked in the Parking area.
+- Car should belong from India(Indian State) to be parked in the Parking area.
 - Car with improper regirstration number cannot be parked.
-- Car should have 13 characters in "2char-2Number-2char-4Number" format.
+- Car should have 13 characters in "2char-2Number-2char-4Number" format eg: KA-23-JV-1234.
 
 
+#### How to test Junit.
+Junit didnot work in my system while building the JAR file due to gradle version issue.  
+Still yu can try in your system to build it with the following command.  
+- gradle build
 
+So to run the test case . You can use any IDE(Eclipse, IntelliJ)  

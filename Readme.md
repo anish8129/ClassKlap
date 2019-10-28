@@ -76,7 +76,7 @@ It will exit the program.
 
 #### How to test Junit.
 Junit didnot work in my system while building the JAR file due to gradle version issue.  
-Still yu can try in your system to build it with the following command.  
+Still you can try in your system to build it with the following command.  
 - gradle build
 
 So to run the test case . You can use any IDE(Eclipse, IntelliJ)  

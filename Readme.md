@@ -10,8 +10,12 @@
 ### Tech
 - Simple Java with Junit Library.
 
-### How to run the File ?
+### How to run the File ? 
+#### create the jar file
 Open the project containing folder.
+- cd ClassKlap
+- gradle build -x test
+#### Run the Jar file
 Type in the following command.
 - Cd ClassKlap/build/libs
 - java -jar ClasKlap.jar
@@ -21,7 +25,7 @@ This is a menu driven Program.
 1. CREATE A PARKING LOT
 2. EXIT
 if you chosse option 1
-> Enter the Size of the parking area
+Enter the Size of the parking area
 2
 Parking Lot is created.
 <Then Sub menu appears>
@@ -32,6 +36,7 @@ Parking Lot is created.
 5. SLOT NUMBERS OF CAR FOR A PARTICULAR COLOR
 6. SLOT NUMBER OF CAR FOR A PARTICULAR REGISTRATION NUMBER
 7. EXIT
+
 if you choose Option 1.
 You will be promt to enter you car number and then you will be prompt to enter the color of the car.
 If the input is proper it will allot a slot to the Car.

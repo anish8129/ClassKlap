@@ -29,6 +29,7 @@ Enter the Size of the parking area
 2  
 Parking Lot is created.  
 <Then Sub menu appears>  
+  
 1. PARK A CAR
   
 2. REMOVE CAR FROM PARKING
@@ -70,7 +71,7 @@ It will exit the program.
 - Car with duplicate registration number cannot be parked.
 - Car should belong from India to be parked in the Parking area.
 - Car with improper regirstration number cannot be parked.
-
+- Car should have 13 characters in "2char-2Number-2char-4Number" format.
 
 
 

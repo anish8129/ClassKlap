@@ -1,9 +1,9 @@
 # Parking Lot
 # Features!
-  - Create a Parking Lot With a fix Size.
+  - Create a Parking Lot With a fixed Size.
   - Park Car and get nearest Slot from the enterance gate.
   - Leave a parking slot.
-  - List out the cars registration number of a particular Colour.
+  - List out the car's registration number of a particular Colour.
   - List out the slot of cars of a particular Colour.
   - List out the Cars present in the parking lot.
 
@@ -28,7 +28,7 @@ if you chosse option 1
 Enter the Size of the parking area  
 2  
 Parking Lot is created.  
-<Then Sub menu appears>  
+Then Sub menu appears  
   
 1. PARK A CAR
   
@@ -43,7 +43,7 @@ Parking Lot is created.
 7. EXIT  
   
 if you choose Option 1.  
-You will be promt to enter you car number and then you will be prompt to enter the color of the car.  
+You will be prompt to enter you car number and then you will be prompt to enter the color of the car.  
 If the input is proper it will allot a slot to the Car.  
   
 If you choose option 2.  
@@ -53,7 +53,7 @@ If you choose option 3.
 It will list the Cars present in the Parking Slot.  
   
 If you choose the Option 4.  
-It will promt you to enter color of the car.  
+It will prompt you to enter color of the car.  
 if Cars are present then it will list the Cars registration number.  
   
 If you choose the Option 5.  
